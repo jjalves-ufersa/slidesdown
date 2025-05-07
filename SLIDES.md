@@ -1,9 +1,9 @@
 ---
 # Metadata about the presentation:
-title: Presentation Title
-author: Your Name
-date: 2023-01-20
-keywords: some useful keywords
+title: Apresentação Teste
+author: Jota Alves
+date: 2025-05-07
+keywords: teste, apresentação
 
 # Presentation settings:
 # Show progress bar
@@ -20,7 +20,7 @@ pdfSeparateFragments: false
 
 # My first markdown slideshowx'
 
-Author: Your Name
+Author: Jota Alves
 
 ## Agenda
 
